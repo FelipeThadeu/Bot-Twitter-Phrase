@@ -4,9 +4,6 @@ import time
 import random
 from datetime import datetime
 
-auth = tweepy.OAuthHandler("BBVFsOS4tUzgUQlZGKmu7Ooq4", "2AvfUozkH3LczmjebKGaQqIBXVY80gwrP3U1e6dmwMRVOTxKiE")
-auth.set_access_token("226271460-YHzPPABOshvA60ApBrZZw6J4vSXyHcqoplO5oHsC", "HBZFUd28iCUCL2x7AB5rwMi2ayOlC2Qkiq0yk8jK6qY1V")
-
 api = tweepy.API(auth)
 
 phrase = [

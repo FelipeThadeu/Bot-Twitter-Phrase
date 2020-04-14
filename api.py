@@ -4,8 +4,7 @@ import time
 import random
 from datetime import datetime
 
-auth = tweepy.OAuthHandler("UbcvIg5fyXjMnJNKykFu5F0sv", "KPsYJfVKs0KRPQkhOHEmNVsuqCZzPvqZiQKFPECcaxCPOLMdjx")
-auth.set_access_token("226271460-dE4EKAdexNv8f0Sk1n6yrMUSpDxAjAp9p5QyXvCI", "n6xIx1AQ2dqxUMAFHyuVike6MfUo0znelJhFdg2SEh7n7")
+
 
 api = tweepy.API(auth)
 

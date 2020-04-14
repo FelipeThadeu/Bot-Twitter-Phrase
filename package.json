@@ -1,0 +1,22 @@
+{
+  "name": "bot-twitter-phrase",
+  "version": "1.0.0",
+  "description": "Bot-Twitter-Phrase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FelipeThadeu/Bot-Twitter-Phrase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FelipeThadeu/Bot-Twitter-Phrase/issues"
+  },
+  "homepage": "https://github.com/FelipeThadeu/Bot-Twitter-Phrase#readme",
+  "dependencies": {
+    "pensador-api": "^1.0.0"
+  }
+}

@@ -25,7 +25,7 @@ def mensages():
     data_e_hora_atuais = datetime.now()
     data_e_hora_em_texto = data_e_hora_atuais.strftime("%H:%M")
     print(data_e_hora_em_texto)
-    if data_e_hora_em_texto == '15:43':
+    if data_e_hora_em_texto == '20:00':
         api.update_status('BOT motivacional: '+ random.choice(phrase))
 
 def main():
